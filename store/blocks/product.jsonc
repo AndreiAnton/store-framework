@@ -34,18 +34,29 @@
   },
 
   "product-images": {
-
+    "props": {
+      "displayThumbnailsArrows": true
+    }
   },
 
   "product-price": {
-
+    "props": {
+      "showSavings": true,
+      "showListPrice": false
+    }
   },
 
   "product-name": {
-
+    "props": {
+      "showSKU": true,
+      "showBrandName": true
+    }
   },
 
   "buy-button": {
-
+    "props": {
+      "isOneClickBuy": true,
+      "showTooltipOnSkuNotSelected": false
+    }
   }
 }
