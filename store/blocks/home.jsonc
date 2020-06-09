@@ -36,7 +36,7 @@
       "callToActionText": "Explore",
       "callToActionUrl": "/sale/d",
       "textAlignment": "center",
-      "infoCardContainer": "vintage"
+      "blockClass": "vintage"
     }
   },
   "info-card#button-left": {
@@ -50,7 +50,7 @@
       "callToActionText": "Go to Collection",
       "callToActionUrl": "/sale/d",
       "textAlignment": "center",
-      "infoCardContainer": "metal"
+      "blockClass": "metal"
     }
   }
 }
