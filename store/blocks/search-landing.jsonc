@@ -22,7 +22,8 @@
                 "hideUnavailableItems": true,
                 "maxItemsPerPage": 8,
                 "query": "Blue Top Retro Camera",
-                "mapField": "ft"
+                "mapField": "ft",
+                "orderByField": "OrderByReleaseDateDESC"
               }
         }
     }
