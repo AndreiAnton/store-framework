@@ -16,14 +16,11 @@
     "search-result-layout.customQuery": {
         "props": {
             "querySchema": {
-                "skusFilter": "FIRST_AVAILABLE",
-                "simulationBehavior": "skip",
-                "OrderByReleaseDateDESC": true,
+                "orderByField": "OrderByReleaseDateDESC",
                 "hideUnavailableItems": true,
                 "maxItemsPerPage": 8,
-                "query": "Blue Top Retro Camera",
-                "mapField": "ft",
-                "orderByField": "OrderByReleaseDateDESC"
+                "queryField": "Blue Top Retro Camera",
+                "mapField": "ft"
               }
         }
     }
