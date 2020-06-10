@@ -9,7 +9,7 @@
         "props":{
             "orientation": "horizontal"
         }
-  },
+    },
 
     "vtex.menu@2.x:submenu#major":{
         "children":[
