@@ -41,11 +41,11 @@
     "props": {
       "hideImpossibleCombinations": false,
       "initialSelection": "empty",
-      "showVariationsLabels": true,
+      "ShowValueForVariation": "image",
       "showVariationsErrorMessage": true
     }
   },
-  
+
 
   "flex-layout.col#right": {
     "children": [ 
