@@ -41,7 +41,7 @@
     "props": {
       "hideImpossibleCombinations": false,
       "initialSelection": "empty",
-      "ShowValueForVariation": "image",
+      "showValueNameForImageVariation": true,
       "showVariationsErrorMessage": true
     }
   },
